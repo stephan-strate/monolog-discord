@@ -62,7 +62,7 @@ class DiscordHandler extends AbstractProcessingHandler
 
         // truncate message as discords message limit is 2000 characters
         if (strlen($content) > self::MAX_MESSAGE_LENGTH) {
-            $countRemovedCharacters = strlen($content) - (self::MAX_MESSAGE_LENGTH + 32);
+            $countRemovedCharacters = strlen($content) - self::MAX_MESSAGE_LENGTH + 32;
             $content = substr($content, 0, self::MAX_MESSAGE_LENGTH - 32) . " (removed $countRemovedCharacters characters)";
         }
 
