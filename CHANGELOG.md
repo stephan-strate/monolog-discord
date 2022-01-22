@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 ### Changed
-- Bump phpunit/phpunit from 9.5.10 to 9.5.11 ([#2](https://github.com/stephan-strate/monolog-discord/pull/2))
+- Bump phpunit/phpunit from 9.5.10 to 9.5.12 ([#2](https://github.com/stephan-strate/monolog-discord/pull/2), [#3](https://github.com/stephan-strate/monolog-discord/pull/3))
 
 ### Removed
 
