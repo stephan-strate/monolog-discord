@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 ### Changed
-- Bump phpunit/phpunit from 9.5.10 to 9.5.18 ([#2](https://github.com/stephan-strate/monolog-discord/pull/2), [#3](https://github.com/stephan-strate/monolog-discord/pull/3), [#4](https://github.com/stephan-strate/monolog-discord/pull/4), [#6](https://github.com/stephan-strate/monolog-discord/pull/6), [#8](https://github.com/stephan-strate/monolog-discord/pull/8))
+- Bump phpunit/phpunit from 9.5.10 to 9.5.19 ([#2](https://github.com/stephan-strate/monolog-discord/pull/2), [#3](https://github.com/stephan-strate/monolog-discord/pull/3), [#4](https://github.com/stephan-strate/monolog-discord/pull/4), [#6](https://github.com/stephan-strate/monolog-discord/pull/6), [#8](https://github.com/stephan-strate/monolog-discord/pull/8), [#10](https://github.com/stephan-strate/monolog-discord/pull/10))
 - Bump monolog/monolog from 2.3.5 to 2.4.0 ([#9](https://github.com/stephan-strate/monolog-discord/pull/9))
 
 ### Removed
