@@ -9,13 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Bump phpunit/phpunit from 9.5.10 to 9.5.27 ([#2](https://github.com/stephan-strate/monolog-discord/pull/2), [#3](https://github.com/stephan-strate/monolog-discord/pull/3), [#4](https://github.com/stephan-strate/monolog-discord/pull/4), [#6](https://github.com/stephan-strate/monolog-discord/pull/6), [#8](https://github.com/stephan-strate/monolog-discord/pull/8), [#10](https://github.com/stephan-strate/monolog-discord/pull/10), [#21](https://github.com/stephan-strate/monolog-discord/pull/21))
-- Bump monolog/monolog from 2.3.5 to 2.4.0 ([#9](https://github.com/stephan-strate/monolog-discord/pull/9))
+- Bump monolog/monolog from 2.3.5 to 2.8.0 ([#9](https://github.com/stephan-strate/monolog-discord/pull/9), [#16](https://github.com/stephan-strate/monolog-discord/pull/16))
 
 ### Removed
 
 ## [1.0.1] - 2021-11-28
 ### Added
-- MIT License
+- MIT License21
 - CHANGELOG.md
 
 ### Changed
